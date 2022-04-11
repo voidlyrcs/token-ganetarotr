@@ -1,0 +1,11 @@
+Önce, Setup.bat Çalıştır. Bittikten Sonra Kapat.
+
+Start.bat Çalıştır.
+
+
+
+
+
+
+
+WONDA TOKEN GENERATOR
